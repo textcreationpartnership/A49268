@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to all young convinced friends whom the Lord hath reached by His mighty power, and separated from the world, and turned their hearts, so as to forsake father, and mother, wife, and children, for his name sake. By way of exhortation and encouragement, by one whom the Lord hath greatly encouraged, and fulfilled the saying of the prophet Malachi, by by turning the hearts of his parents and dear relations to him.</title>
+            <author>Love, John, d. 1721.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49268</idno>
+            <idno type="STC">Wing L3190</idno>
+            <idno type="STC">ESTC R216630</idno>
+            <idno type="EEBO-CITATION">99828355</idno>
+            <idno type="PROQUEST">99828355</idno>
+            <idno type="VID">32782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1928:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to all young convinced friends whom the Lord hath reached by His mighty power, and separated from the world, and turned their hearts, so as to forsake father, and mother, wife, and children, for his name sake. By way of exhortation and encouragement, by one whom the Lord hath greatly encouraged, and fulfilled the saying of the prophet Malachi, by by turning the hearts of his parents and dear relations to him.</title>
+                  <author>Love, John, d. 1721.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle, in White-Hart-Court in Gracious-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Love, the Younger.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Kent --  Early works to 1800.</term>
+               <term>Tithes --  Great Britain --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32782:1"/>
+            <!-- PDF PAGE 64 -->
+            <p>AN EPISTLE TO ALL Young Convinced FRIENDS, WHOM The Lord hath reached by His mighty Power, and ſeparated from the World, and turned their Hearts, ſo as to forſake Father, and Mo<g ref="char:EOLhyphen"/>ther, Wife, and Children, for his Name ſake.</p>
+            <p>By way of Exhortation and Encouragement, by one whom the Lord hath greatly Encouraged, and fulfilled the ſaying of the Prophet <hi>Malachi,</hi> by turning the Hearts of his Parents and Dear Relations to Him.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street.</hi> 1696.</p>
+            <pb facs="tcp:32782:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 65 -->
+            <pb facs="tcp:32782:2"/>
+            <!-- PDF PAGE 65 -->
+            <p>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:32782:3"/>
+            <!-- PDF PAGE 66 -->
+            <pb n="3" facs="tcp:32782:3"/>
+            <!-- PDF PAGE 66 -->
+            <head>AN EPISTLE TO ALL Young Convinced Friends, &amp;c.</head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>WHoever thou art, in the Love of God was my Heart en<g ref="char:EOLhyphen"/>larged to write to thee this following Account, that thou may'ſt be encouraged to abide in the Patience and Hope of that which thy Natural Eyes cannot behold, to wit, the Great and Wonderful Work of the Great Inviſible God, which in his own time he will perfect to his own Praiſe, and thy Comfort, and as thou doſt ſtand in thy own Nothingneſs, with the Eye of thy Mind ſingle unto the Lord, thou may'ſt come to behold that Work done by him, which all thy power is not able to do, although thou be never ſo earneſt in it, for the Lord will do his own Work himſelf, and thou muſt ſtand ſtill, and wait his time, having thy Eye to the inward power of God, to keep and preſerve thee in patience, to bear what Exerciſes thou may'ſt meet with, from thoſe who are, (as to the outward) very near and dear unto thee, that thou may'ſt, by thy patient bearing of thoſe Reproaches and Afflicti<g ref="char:EOLhyphen"/>ons, thou may'ſt meet with from them, which may ſeem to thee very hard, reach the Witneſs in their Conſciences, whether Fa<g ref="char:EOLhyphen"/>ther, or Mother, or Husband, or Wife, or whoever they be, ſo that thou may'ſt become a Preacher of Righteouſneſs in thy Con<g ref="char:EOLhyphen"/>verſation to them, which ſpeaks with a far louder Voice than words can do, and is more effectual to reach to the Witneſs in
+<pb n="4" facs="tcp:32782:4"/>
+               <!-- PDF PAGE 67 -->their Conſciences, than a great many words are, though words, (as thou doſt wait for the Lord to fit thy words before thou doſt ſpeak them) thou wilt find them of advantage to thoſe to whom they are ſpoken; and though they be never ſo few, yet as they are ſpoken by thee in the ſavoury Life, they ſhall not return to thee in vain, but in the Lord's time effect the end for which thou wer't made to ſpeak them.</p>
+            <p>So, dear Friend, I being at my Labour, at my own Home in <hi>Canterbury,</hi> upon the firſt of the Twelfth Month 1695. and con<g ref="char:EOLhyphen"/>ſidering the great Sufferings of my dear Parents, whom the Lord hath born up in it in a wonderful manner, beyond what we could conceive, before it came on them, I became concern'd to write on this wiſe.</p>
+            <p>The Impropriator in the Pariſh of <hi>Aſh</hi> in the County of <hi>Kent,</hi> Sued, for a Demand of 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> for Tythes, to a Sequeſtration, and then took and ſtripped them; ſo that although they were both Antient People, they left them not a Bed to lye on, nor a Blan<g ref="char:EOLhyphen"/>ket to cover themſelves, nor ſcarce any Neceſſaries to ſuccour themſelves; ſo that for a demand of 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> they took upwards of the Value of 57 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſo that they were for ſome time compelled to Lodge on Straw; but the Lord's power was felt to make hard things eaſie to them.</p>
+            <p>So now, dear Friend, I ſhall (as one who have in my Meaſure taſted of the large Love of God to me in my Heart, and known him to bear me up, when tryed) give this ſhort account to thee of my Tryals with my Parents, and of the Encouragement the Lord hath given me, that thou may'ſt not faint in thy Mind, nor be diſcouraged at the Frowns of thy Friends, and near Relations, which lay on me as a Concern to give forth this Teſtimony of the Lord's Dealings with me, and my dear Relations, ſince my firſt Convincement, which was about Twelve or Thirteen Years ago; when I was but a Lad, the Lord brake in by his mighty Power, and filled my Heart with his Judgments, and did Rip up all the whole Courſe of my Life, and made me to bow to them, though againſt my will; for I would fain have put the Day of the Lord's Viſitation off longer, but the more I did endeavour, the heavier were the Lord's Judgments on me, ſo that I was forced to bow under them before I could find Mercy, for the Lord wrought in me by his own inward Power at the firſt, and not by any out<g ref="char:EOLhyphen"/>ward
+<pb n="5" facs="tcp:32782:4"/>
+               <!-- PDF PAGE 67 -->Inſtrument, and cauſed me to know Nights of Sorrow, and Days of Mourning; and it was to me a time of deep Exerciſe, though but a Child, (as it were) and my Fellow-ſervant, who was Apprentice to the ſame Maſter with whom I was, though he was a Lad naturally of a more ſober Behaviour than my ſelf, yet the Lord made my Convincement of good effect to him, ſo that he was reached to and convinced, and by the migh<g ref="char:EOLhyphen"/>ty Power of God, remains to this day an Honeſt Sober Friend: Thus did the Lord by his Inviſible Power give me a Companion, and brought us both forth to bear a Teſtimony for his Name with<g ref="char:EOLhyphen"/>in a very little time after our Convincement, which was in a time of great Perſecution; for we were both required by Two Magi<g ref="char:EOLhyphen"/>ſtrates to Swear Allegiance to the King, but the Lord by his migh<g ref="char:EOLhyphen"/>ty Power bore us up, who were as poor little Children; ſo that we ſtood as Innocent Lambs before them, and were both by them Committed to Priſon, where we were born up by the Lord's Power, till in a little time we were delivered by them out again, and then my Parents made ſuit for the reſidue of my time of Ap<g ref="char:EOLhyphen"/>prenticeſhip, and took me (with Conſent of my Maſter) Home to them, and ſet me up of my Trade by them, which was a Shoe<g ref="char:EOLhyphen"/>maker; then was my Father a Follower of the Prieſt, and all his Family; ſo then began on me a very ſore Exerciſe from them, it being ſtill a time of hot Perſecution; ſo I was in my Father's Fa<g ref="char:EOLhyphen"/>mily, when but about 18 Years, (or little more) of Age, as a Gazing-ſtock to them all, or as a Sparrow alone upon the Houſe-top: And many times my Father would labour to have me with him to hear the Prieſt, but the Lord kept me; ſo that when my Father ſaw he could not prevail, he would then break out into Diſpleaſure and Anger againſt me; and ſometimes if he could catch any thing againſt me, or any of my Friends, then he would caſt that on me; and ſometimes I have expected him to have bea<g ref="char:EOLhyphen"/>ten me, but the Lord's Power did reſtrain him from it; and ſome would be adviſing him to take me by force with him to hear the Prieſt; but I hearing of it, was made to anſwer to it, <hi>That al<g ref="char:EOLhyphen"/>though my Father might carry me by force there, he might bring a grea<g ref="char:EOLhyphen"/>ter Burthen on himſelf than he was aware of, for it was out of his power to ſtop me from ſpeaking, if I ſhould by ſuch means have anything from the Lord to ſay there;</hi> ſo he was ſtopped there alſo, and did not pro<g ref="char:EOLhyphen"/>ceed
+<pb n="6" facs="tcp:32782:5"/>
+               <!-- PDF PAGE 68 -->in that; but in a very little time the Prieſt of the Pariſh, for not coming to hear him, did Excommunicate me, which was no ſmall Terror to my Father, ſo that he began to be outragious at me, but the Lord did bear me up under it, and did give me a ve<g ref="char:EOLhyphen"/>ry large Encouragement, ſo that I beheld him to be at work in the Heart of my Dear Mother, and ſhe was made to take a part, and a ſhare of Exerciſe with me; yet thus my Father finding that way to fail, made proof of another with me, and did in ſome meaſure prevail on me, which was this, he deſired me to ſtay at Home upon a Firſt-day, and not go to the Meeting, in expectati<g ref="char:EOLhyphen"/>on of my Siſter coming to ſee them, who was then a Servant, which I did, but ſhe came not, and I was greatly burthened in my Spirit for giving way in that caſe, and was (till I came to ano<g ref="char:EOLhyphen"/>ther Meeting) like a Man ſhut up in a Dungeon, and found very hard work to get to the next Meeting, as if my work had been almoſt to begin again: My Father ſeeing he could not prevail with me again, notwithſtanding a great deal of Labour he took to perſwade me, and had got ſtrength too by my yielding to him before, he then ſeemed to be more outragious than uſual, ſo that I did expect I ſhould have been ſeverely beaten by him when I came home from the Meeting; but when I was gotten clear of him, I went like a Man Travelling for his Life, and I had no ſoon<g ref="char:EOLhyphen"/>er ſet me down in a Retiredneſs to the Lord in the Meeting, but the Lord (although in ſilence, as to words) outwardly did ſet open the Stream of Life in my Soul, ſo that I was taken up above the fears or frowns of any Mortal, and felt in my return home that Life and Love to ſpring in my Heart, that I could have laid my ſelf under the Soles of my Fathers Feet; but when I came home (contrary to my expectation) I found my Father very lo<g ref="char:EOLhyphen"/>ving to me, and the Lord had gotten a belief in me that he would bow my Father, and bring him in obedience to the Truth, which I did upon occaſion tell to my Mother, and I did then begin to find my Father to be ſomething condeſcending, and ſometimes would be ready to bargain with me, that if I would go with him once, he would go with me, but the Lord preſerved me out of that Snare, and in a little time I did get my Father and Mother to the Meeting, but my Father was aſhamed to be ſeen or met by any coming from the Meeting, but my Mother hath continued ever
+<pb n="7" facs="tcp:32782:5"/>
+               <!-- PDF PAGE 68 -->ſince, and my Father would confeſs to me it was the Truth, and the Lord did begin to work on him, and to bow him in ſome mea<g ref="char:EOLhyphen"/>ſure in obedience to Truth; then was his Love to me more than before, and he was then glad of Opportunities of Meetings, and the Lord was with him, and his power did bear him up, and this was a joyful time to me, to behold the Lord's Viſitation to both my Parents; and in a little time the Lord brought in my Eldeſt Siſter in Obedience to Truth, and then I had Three Companions, but the Out-cry of People was, I had deceived my Parents; but the Lord's Power did work wonderfully, and brought my Father ſtill further and further, and fitted him more and more, ſo that now he is as an Inſtrument in the Lord's Hand, to bear a publick Teſtimony in Meetings; then a little after the Lord brought my two Brothers into Obedience to his Truth; and then my Eldeſt Brother was under a great Travel and Exerciſe, beyond I think any of us; and as for my Youngeſt Siſter, within about a Years time after, the Lord laid his Hand heavy upon her, and made her to come forth as a Monument of his Mercy, through the midſt of Judg<g ref="char:EOLhyphen"/>ments; ſo that now we could all ſit down together at the Lord's Table, and drink of the one Cup; and we have ſeveral times felt the Lord to break the Bread of Life in our Souls, and living Praiſes with one accord, as with one Heart, to go forth to the Lord from the Ariſings of Life in our Hearts by the Lord's Power, in which we have been made to ſit together in the Enjoyment thereof.</p>
+            <p>So, dear Friend, I being in the Love of God drawn forth to thee after this manner, not to ſet forth the Praiſe of my Relati<g ref="char:EOLhyphen"/>ons, nor lay open their weakneſs, nor to glory in any of my own, but in the Lord, who hath wrought wonderfully; ſo that of a poor little weak one, even as a Worm before the Lord, I can be<g ref="char:EOLhyphen"/>hold his Hand to be full of Bleſſings, and his Increaſing Govern<g ref="char:EOLhyphen"/>ment to be endleſs; ſo that thou may'ſt be Encouraged, whoever thou art, that be in the like Exerciſes, this I leave to thee as an Encouragement to be true of Heart, and faithful to the Lord, and to ſtand in the true patience of the Saints, that thou may'ſt know an overcoming of the Enemy in thy own Heart, and ſo in the Lord's time may be made a Conqueror of thoſe who may oppoſe thee, by having thy Converſation as becometh the Truth; then
+<pb n="8" facs="tcp:32782:6"/>
+               <!-- PDF PAGE 69 -->the Lord, as thou do'ſt herein abide, and keep'ſt thy Mind cloſe to the Lord in a true ſtability, thou wilt find him to bear thee up, and to make hard things eaſie to thee, and to level the Mountains before thee, and make the Rough-ways ſmooth; and ſo (by a retired waiting in a holy Reſignation of thy Will, in a ſubjecti<g ref="char:EOLhyphen"/>on to the Lord) thou wilt feel his Power to keep and preſerve thee freſh and green, and the Enjoyment of his preſence will be to thee as Dew on the tender Graſs; therefore in all the whole Con<g ref="char:EOLhyphen"/>duct of thy Life, let the dread of the Great Everlaſting God be on thee, which is only able to keep thee in the Hour of Temptati<g ref="char:EOLhyphen"/>on, which will come upon the whole World, to try them that dwell therein: Oh therefore ſee that thy Building be on the un<g ref="char:EOLhyphen"/>moveable Rock, which will endure the fierceſt Winds and Storms thou may'ſt meet with; and when any Tryals or Exerciſes do a<g ref="char:EOLhyphen"/>riſe, then art thou to come to ſtilneſs and quietneſs in thy Mind, thou wilt know an Overcoming of that part in thee which may be ſubject to Heat or Paſſion, or to Doubts or Diſtruſtings, and ſo in the Morning of the Day that God hath cauſed to dawn on thee, in which thou haſt (in thy Meaſure) beheld the Bright and Morning Star, if thou do'ſt continue faithful, thou wilt come to behold the Sun of Righteouſneſs to ariſe with healing under his Wings; and as thou doſt continue faithful, the Lord will bring thee to the Me<g ref="char:EOLhyphen"/>ridian of the Day, in which thou ſhalt feel the brightneſs of his Rays to warm thy Heart, and make thee ſtrong; ſo that at the cloſe of the Day thou may'ſt come to be gathered out of a trouble<g ref="char:EOLhyphen"/>ſome World into Everlaſting Peace and Joy: So having eaſed my Spirit, and cleared my Conſcience, I ſhall commit thee, with my own Soul, to the Grace of God which was ſufficient for the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul:</hi> And bleſſed be the Lord we have in our Meaſures known the ſufficiency of it; and ſhall conclude with my Breathing to the Lord for the preſervation of all who have taſted of the good Word of God, and of the Powers of the World to come.</p>
+            <closer>
+               <signed>
+                  <hi>John Love,</hi> the Younger.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32782:6"/>
+            <!-- PDF PAGE 69 -->
+         </div>
+      </body>
+   </text>
+</TEI>
